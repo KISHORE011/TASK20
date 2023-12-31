@@ -36,7 +36,7 @@ window_handles = driver.window_handles
 # Display window/frame IDs in the console
 for handle in window_handles:
     driver.switch_to.window(handle)
-   #print(f"Window/Frame ID: {handle}")
+   print(f"Window/Frame ID: {handle}")
 # Close the two new windows and switch back to the original window
 for handle in window_handles[1:]:
     driver.switch_to.window(handle)
