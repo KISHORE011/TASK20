@@ -8,3 +8,5 @@ Using Python Selenium visit the URL https://labour.gov.in/ and do the following 
 1) Goto the Menu whose name is "Documents and Download the Monthly Progress Report
 2) Goto the Menu whose name is "Media" where you will find a sub-menu whose name is "Photo Gallery".
 Your task is to download the 10 photos from the webpage and store them in a folder. Kindly create the folder using Python only.
+
+#### without using functions ####
